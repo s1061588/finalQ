@@ -79,7 +79,6 @@ D:\資訊軟體期末考試\final_410615885\final_410615885\bin\zh-Hant\System.W
 D:\資訊軟體期末考試\final_410615885\final_410615885\bin\zh-Hant\System.Web.WebPages.resources.dll
 D:\資訊軟體期末考試\final_410615885\final_410615885\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 D:\資訊軟體期末考試\final_410615885\final_410615885\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-D:\資訊軟體期末考試\final_410615885\final_410615885\obj\Debug\final_410615885.csprojAssemblyReference.cache
 D:\資訊軟體期末考試\final_410615885\final_410615885\obj\Debug\final_410615885.csproj.CoreCompileInputs.cache
 D:\資訊軟體期末考試\final_410615885\final_410615885\obj\Debug\final_410615885.csproj.CopyComplete
 D:\資訊軟體期末考試\final_410615885\final_410615885\obj\Debug\final_410615885.dll
